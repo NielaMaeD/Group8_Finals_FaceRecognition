@@ -302,3 +302,18 @@ _In the ever-expanding universe of MCU, a diverse array of heroes has risen to p
 </div>
 
 ---
+
+# **CAST 1**
+
+<br>
+
+_<sup>🔻Using the provided face recognition code and analyzing the image "A1.png," the following results were obtained:🔻</sup>_
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Group8_Finals_FaceRecognition/assets/143881769/bee0139d-b1eb-4480-8b52-c2df960c8f54">
+</p>
+
+---
+
