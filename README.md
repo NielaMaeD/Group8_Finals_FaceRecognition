@@ -444,4 +444,45 @@ _<sup>🔻Using the provided face recognition code and analyzing the image "A10.
 
 ---
 
+<details>
+  
+  **<summary>🇷🇪🇫🇪🇷🇪🇳🇨🇪🇸</summary>**
+1.	Iron Man (Tony Stark):
+•	Reference: "Iron Man (character)," Wikipedia, https://en.wikipedia.org/wiki/Iron_Man_(character)
+2.	Thor:
+•	Reference: "Thor (Marvel Comics)," Wikipedia, https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)
+3.	Black Widow (Natasha Romanoff):
+•	Reference: "Black Widow (Natasha Romanoff)," Marvel Cinematic Universe Wiki, https://marvelcinematicuniverse.fandom.com/wiki/Black_Widow
+4.	Hawkeye (Clint Barton):
+•	Reference: "Hawkeye (comics)," Wikipedia, https://en.wikipedia.org/wiki/Hawkeye_(comics)
+5.	Hulk (Bruce Banner):
+•	Reference: "Hulk (comics)," Wikipedia, https://en.wikipedia.org/wiki/Hulk_(comics)
+6.	Captain America (Steve Rogers):
+•	Reference: "Captain America," Marvel Cinematic Universe Wiki, https://marvelcinematicuniverse.fandom.com/wiki/Captain_America
+7. https://www.bing.com/images/search?view=detailV2&ccid=%2bI6li9bp&id=3B4F2918EF4E2072FB7FB194E66743A2AF4A5AB8&thid=OIP.-I6li9bpM8VBbNjXAq2oigHaJQ&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f0e%2f71%2fca%2f0e71cabb6401be0d894044a3464ff00a.jpg&exph=1350&expw=1080&q=tony+stark+and+iron+suit&simid=608050791391261358&FORM=IRPRST&ck=93AFAF92B915A2BFB0C42E82FDC03913&selectedIndex=13&itb=0&ajaxhist=0&ajaxserp=0
+8. https://www.bing.com/images/search?view=detailV2&ccid=%2bI6li9bp&id=3B4F2918EF4E2072FB7FB194E66743A2AF4A5AB8&thid=OIP.-I6li9bpM8VBbNjXAq2oigHaJQ&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f0e%2f71%2fca%2f0e71cabb6401be0d894044a3464ff00a.jpg&exph=1350&expw=1080&q=tony+stark+and+iron+suit&simid=608050791391261358&FORM=IRPRST&ck=93AFAF92B915A2BFB0C42E82FDC03913&selectedIndex=13&itb=0&ajaxhist=0&ajaxserp=0
+9. https://pin.it/3MDqnMY
+10. https://pin.it/2U2robs
+11. https://pin.it/4jGE6S8
+12. Natasha
+13. https://pin.it/2pKehvI
+14. https://pin.it/5NGxdQb
+15. https://pin.it/6dRlmAM
+16. ronin
+17. hawkeye
+18. https://www.kaspersky.com/resource-center/definitions/what-is-facial-recognition
+19. MCU photo
+20. Drax: https://pin.it/5a9YbMC
+21. Peter Parker: https://pin.it/2CyAaAT
+22. Mantis: https://pin.it/2XsAHXW
+23. Wanda: https://pin.it/6LPnkYB
+24. Captain Marvel: https://pin.it/5cMsOkF
+25. Falcon: https://pin.it/3tMrC4K
+26. Gamora: https://pin.it/1f72pvp
+27. Nick Fury: https://pin.it/VLlOV17
+28. Nebula: https://pin.it/5jSY8Qr
+29. Wasp: https://pin.it/26y9Xwb
+
+</details>
+
 
