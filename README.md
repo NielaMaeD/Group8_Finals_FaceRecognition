@@ -302,3 +302,187 @@ _In the ever-expanding universe of MCU, a diverse array of heroes has risen to p
 </div>
 
 ---
+
+# **CAST 1**
+
+<br>
+
+_<sup>🔻Using the provided face recognition code and analyzing the image "A1.png," the following results were obtained:🔻</sup>_
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Group8_Finals_FaceRecognition/assets/143881769/bee0139d-b1eb-4480-8b52-c2df960c8f54">
+</p>
+
+---
+
+# **CAST 2**
+
+<br>
+
+_<sup>🔻Using the provided face recognition code and analyzing the image "A2.png," the following results were obtained:🔻</sup>_
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Group8_Finals_FaceRecognition/assets/143881769/374d76bc-eeb5-428f-8b30-a20b7b34ccdd">
+</p>
+
+---
+
+# **CAST 3**
+
+<br>
+
+_<sup>🔻Using the provided face recognition code and analyzing the image "A3.png," the following results were obtained:🔻</sup>_
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Group8_Finals_FaceRecognition/assets/143881769/6c45909e-18d8-4e63-b895-1dfef36480cb">
+</p>
+
+---
+
+# **CAST 4**
+
+<br>
+
+_<sup>🔻Using the provided face recognition code and analyzing the image "A4.png," the following results were obtained:🔻</sup>_
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Group8_Finals_FaceRecognition/assets/143881769/440610ee-d3e3-4e9a-b6fb-d812ce6ac708">
+</p>
+
+---
+
+# **CAST 5**
+
+<br>
+
+_<sup>🔻Using the provided face recognition code and analyzing the image "A5.png," the following results were obtained:🔻</sup>_
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Group8_Finals_FaceRecognition/assets/143881769/4d591e6f-3afa-4d66-9a60-86040556a0fe">
+</p>
+
+---
+
+# **CAST 6**
+
+<br>
+
+_<sup>🔻Using the provided face recognition code and analyzing the image "A6.png," the following results were obtained:🔻</sup>_
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Group8_Finals_FaceRecognition/assets/143881769/1cd8f2bb-6937-446a-b7cb-a60e0d2150a1">
+</p>
+
+---
+
+# **CAST 7**
+
+<br>
+
+_<sup>🔻Using the provided face recognition code and analyzing the image "A7.png," the following results were obtained:🔻</sup>_
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Group8_Finals_FaceRecognition/assets/143881769/ef19d81d-dcf4-4de9-abaf-3dfb69eb1f06">
+</p>
+
+---
+
+# **CAST 8**
+
+<br>
+
+_<sup>🔻Using the provided face recognition code and analyzing the image "A8.png," the following results were obtained:🔻</sup>_
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Group8_Finals_FaceRecognition/assets/143881769/7695ed05-ba18-4cac-a9e6-7656a06f1d03">
+</p>
+
+---
+
+
+# **CAST 9**
+
+<br>
+
+_<sup>🔻Using the provided face recognition code and analyzing the image "A9.png," the following results were obtained:🔻</sup>_
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Group8_Finals_FaceRecognition/assets/143881769/c40f8c95-8c37-419a-b55b-b7743ec8582a">
+</p>
+
+---
+
+# **CAST 10**
+
+<br>
+
+_<sup>🔻Using the provided face recognition code and analyzing the image "A10.png," the following results were obtained:🔻</sup>_
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Group8_Finals_FaceRecognition/assets/143881769/5df96b1a-4d46-478e-b4fe-fb22b75e4b0c">
+</p>
+
+---
+
+<details>
+  
+  **<summary>🇷🇪🇫🇪🇷🇪🇳🇨🇪🇸</summary>**
+1.	Iron Man (Tony Stark):
+•	Reference: "Iron Man (character)," Wikipedia, https://en.wikipedia.org/wiki/Iron_Man_(character)
+2.	Thor:
+•	Reference: "Thor (Marvel Comics)," Wikipedia, https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)
+3.	Black Widow (Natasha Romanoff):
+•	Reference: "Black Widow (Natasha Romanoff)," Marvel Cinematic Universe Wiki, https://marvelcinematicuniverse.fandom.com/wiki/Black_Widow
+4.	Hawkeye (Clint Barton):
+•	Reference: "Hawkeye (comics)," Wikipedia, https://en.wikipedia.org/wiki/Hawkeye_(comics)
+5.	Hulk (Bruce Banner):
+•	Reference: "Hulk (comics)," Wikipedia, https://en.wikipedia.org/wiki/Hulk_(comics)
+6.	Captain America (Steve Rogers):
+•	Reference: "Captain America," Marvel Cinematic Universe Wiki, https://marvelcinematicuniverse.fandom.com/wiki/Captain_America
+7. https://www.bing.com/images/search?view=detailV2&ccid=%2bI6li9bp&id=3B4F2918EF4E2072FB7FB194E66743A2AF4A5AB8&thid=OIP.-I6li9bpM8VBbNjXAq2oigHaJQ&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f0e%2f71%2fca%2f0e71cabb6401be0d894044a3464ff00a.jpg&exph=1350&expw=1080&q=tony+stark+and+iron+suit&simid=608050791391261358&FORM=IRPRST&ck=93AFAF92B915A2BFB0C42E82FDC03913&selectedIndex=13&itb=0&ajaxhist=0&ajaxserp=0
+8. https://www.bing.com/images/search?view=detailV2&ccid=%2bI6li9bp&id=3B4F2918EF4E2072FB7FB194E66743A2AF4A5AB8&thid=OIP.-I6li9bpM8VBbNjXAq2oigHaJQ&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f0e%2f71%2fca%2f0e71cabb6401be0d894044a3464ff00a.jpg&exph=1350&expw=1080&q=tony+stark+and+iron+suit&simid=608050791391261358&FORM=IRPRST&ck=93AFAF92B915A2BFB0C42E82FDC03913&selectedIndex=13&itb=0&ajaxhist=0&ajaxserp=0
+9. https://pin.it/3MDqnMY
+10. https://pin.it/2U2robs
+11. https://pin.it/4jGE6S8
+12. Natasha
+13. https://pin.it/2pKehvI
+14. https://pin.it/5NGxdQb
+15. https://pin.it/6dRlmAM
+16. ronin
+17. hawkeye
+18. https://www.kaspersky.com/resource-center/definitions/what-is-facial-recognition
+19. MCU photo
+20. Drax: https://pin.it/5a9YbMC
+21. Peter Parker: https://pin.it/2CyAaAT
+22. Mantis: https://pin.it/2XsAHXW
+23. Wanda: https://pin.it/6LPnkYB
+24. Captain Marvel: https://pin.it/5cMsOkF
+25. Falcon: https://pin.it/3tMrC4K
+26. Gamora: https://pin.it/1f72pvp
+27. Nick Fury: https://pin.it/VLlOV17
+28. Nebula: https://pin.it/5jSY8Qr
+29. Wasp: https://pin.it/26y9Xwb
+
+</details>
+
+
