@@ -410,10 +410,11 @@ _<sup>🔻Using the provided face recognition code and analyzing the image "A8.p
 <br>
 
 <p align="center">
-  <img src="https://github.com/aprilrhose/Group8_Finals_FaceRecognition/assets/143881769/ee1116dc-718d-47d0-959b-495d2486af3">
+  <img src="https://github.com/aprilrhose/Group8_Finals_FaceRecognition/assets/143881769/7695ed05-ba18-4cac-a9e6-7656a06f1d03">
 </p>
 
 ---
+
 
 # **CAST 9**
 
