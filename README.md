@@ -6,7 +6,7 @@
 </div>
 <div align="center">
   <div style="font-style: Autor one;">
-  Authors: Niela Mae Dimaculangan, Clarence Joy Ilagan, and April Rhose Mercado
+  𝙰𝚞𝚝𝚑𝚘𝚛𝚜: 𝙽𝚒𝚎𝚕𝚊 𝙼𝚊𝚎 𝙳𝚒𝚖𝚊𝚌𝚞𝚕𝚊𝚗𝚐𝚊𝚗, 𝙲𝚕𝚊𝚛𝚎𝚗𝚌𝚎 𝙹𝚘𝚢 𝙸𝚕𝚊𝚐𝚊𝚗, 𝚊𝚗𝚍 𝙰𝚙𝚛𝚒𝚕 𝚁𝚑𝚘𝚜𝚎 𝙼𝚎𝚛𝚌𝚊𝚍𝚘
   </div>
 </div>  
 <be>
