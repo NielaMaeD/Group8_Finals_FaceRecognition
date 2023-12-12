@@ -73,6 +73,5 @@
 
 <details>
 <summary>𝙊𝙏𝙃𝙀𝙍 𝘾𝘼𝙎𝙏𝙎</summary>
-  
->
+</details>
 
