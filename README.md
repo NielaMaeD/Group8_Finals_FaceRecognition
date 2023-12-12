@@ -359,3 +359,18 @@ _<sup>🔻Using the provided face recognition code and analyzing the image "A4.p
 
 ---
 
+# **CAST 5**
+
+<br>
+
+_<sup>🔻Using the provided face recognition code and analyzing the image "A5.png," the following results were obtained:🔻</sup>_
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/aprilrhose/Group8_Finals_FaceRecognition/assets/143881769/4d591e6f-3afa-4d66-9a60-86040556a0fe">
+</p>
+
+---
+
+
