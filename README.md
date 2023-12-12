@@ -1,25 +1,25 @@
 <div style="text-align: center;">
   <div align="center">
-    <h1>Marvel Cinematic Universe Box Office Face Recognition</h1>
+    <h1>𝗠𝗮𝗿𝘃𝗲𝗹 𝗖𝗶𝗻𝗲𝗺𝗮𝘁𝗶𝗰 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗲 𝗕𝗼𝘅 𝗢𝗳𝗳𝗶𝗰𝗲 𝗙𝗮𝗰𝗲 𝗥𝗲𝗰𝗼𝗴𝗻𝗶𝘁𝗶𝗼𝗻</h1>
   </div>
   
 </div>
 <div align="center">
   <div style="font-style: Autor one;">
-  𝙰𝚞𝚝𝚑𝚘𝚛𝚜: 𝙽𝚒𝚎𝚕𝚊 𝙼𝚊𝚎 𝙳𝚒𝚖𝚊𝚌𝚞𝚕𝚊𝚗𝚐𝚊𝚗, 𝙲𝚕𝚊𝚛𝚎𝚗𝚌𝚎 𝙹𝚘𝚢 𝙸𝚕𝚊𝚐𝚊𝚗, 𝚊𝚗𝚍 𝙰𝚙𝚛𝚒𝚕 𝚁𝚑𝚘𝚜𝚎 𝙼𝚎𝚛𝚌𝚊𝚍𝚘
+  𝖠𝗎𝗍𝗁𝗈𝗋𝗌: 𝖭𝗂𝖾𝗅𝖺 𝖬𝖺𝖾 𝖣𝗂𝗆𝖺𝖼𝗎𝗅𝖺𝗇𝗀𝖺𝗇, 𝖢𝗅𝖺𝗋𝖾𝗇𝖼𝖾 𝖩𝗈𝗒 𝖨𝗅𝖺𝗀𝖺𝗇, 𝖺𝗇𝖽 𝖠𝗉𝗋𝗂𝗅 𝖱𝗁𝗈𝗌𝖾 𝖬𝖾𝗋𝖼𝖺𝖽𝗈
   </div>
 </div>  
 <be>
 
 <br>
 <div align="center">
-  <strong>𝑻𝒉𝒊𝒔 𝒓𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒚 𝒄𝒐𝒏𝒕𝒂𝒊𝒏𝒔 𝒇𝒂𝒄𝒊𝒂𝒍 𝒓𝒆𝒄𝒐𝒈𝒏𝒊𝒕𝒊𝒐𝒏 𝒅𝒂𝒕𝒂 𝒓𝒆𝒍𝒂𝒕𝒆𝒅 𝒕𝒐 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒔 𝒇𝒓𝒐𝒎 𝒕𝒉𝒆 𝑴𝒂𝒓𝒗𝒆𝒍 𝑪𝒊𝒏𝒆𝒎𝒂𝒕𝒊𝒄 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒆 𝑩𝒐𝒙 𝑶𝒇𝒇𝒊𝒄𝒆.</strong>
+  <strong>𝖳𝗒𝗉𝖾 𝗌𝗈𝗆𝖾𝗍𝗁𝗂𝗇𝗀 𝗍𝗈 𝗌𝗍𝖺𝗋𝗍 𝖳𝗁𝗂𝗌 𝗋𝖾𝗉𝗈𝗌𝗂𝗍𝗈𝗋𝗒 𝖼𝗈𝗇𝗍𝖺𝗂𝗇𝗌 𝖿𝖺𝖼𝗂𝖺𝗅 𝗋𝖾𝖼𝗈𝗀𝗇𝗂𝗍𝗂𝗈𝗇 𝖽𝖺𝗍𝖺 𝗋𝖾𝗅𝖺𝗍𝖾𝖽 𝗍𝗈 𝖼𝗁𝖺𝗋𝖺𝖼𝗍𝖾𝗋𝗌 𝖿𝗋𝗈𝗆 𝗍𝗁𝖾 𝖬𝖺𝗋𝗏𝖾𝗅 𝖢𝗂𝗇𝖾𝗆𝖺𝗍𝗂𝖼 𝖴𝗇𝗂𝗏𝖾𝗋𝗌𝖾..</strong>
 </div>  
 <be>
 
 <div style="text-align: center;">
   <div align="center">
-    <h1>MCU FACE RECOGNITION</h1>
+    <h1>𝗠𝗖𝗨 𝗙𝗔𝗖𝗘 𝗥𝗘𝗖𝗢𝗚𝗡𝗜𝗧𝗜𝗢𝗡</h1>
   </div>
 </div>
 
