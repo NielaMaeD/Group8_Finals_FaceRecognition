@@ -6,16 +6,25 @@
 </div>
 <div align="center">
   <div style="font-style: Autor one;">
-  𝖠𝗎𝗍𝗁𝗈𝗋𝗌: ɴɪᴇʟᴀ ᴍᴀᴇ ᴅɪᴍᴀᴄᴜʟᴀɴɢᴀɴ, ᴄʟᴀʀᴇɴᴄᴇ ᴊᴏʏ ɪʟᴀɢᴀɴ, ᴀɴᴅ ᴀᴘʀɪʟ ᴍᴇʀᴄᴀᴅᴏ
+    <sup>𝖠𝗎𝗍𝗁𝗈𝗋𝗌: ɴɪᴇʟᴀ ᴍᴀᴇ ᴅɪᴍᴀᴄᴜʟᴀɴɢᴀɴ, ᴄʟᴀʀᴇɴᴄᴇ ᴊᴏʏ ɪʟᴀɢᴀɴ, ᴀɴᴅ ᴀᴘʀɪʟ ᴍᴇʀᴄᴀᴅᴏ</sup>
   </div>
 </div>  
 <be>
 
+---
+
+_When it comes to blockbuster cinema, the Marvel Cinematic Universe (MCU) stands as a groundbreaking achievement, reshaping the landscape of superhero storytelling with its interconnected narratives, iconic characters, and an overarching vision that extends far beyond the boundaries of conventional filmmaking. 
+The MCU officially began with the release of "Iron Man" in 2008 and since then, Marvel Studios has produced a series of interconnected films, grouped into phases, each contributing to an overarching storyline. These phases often culminate in ensemble films, such as **"The Avengers,"** where multiple superheroes come together to face a common threat. The success of the MCU has led to a cultural phenomenon, with a dedicated fanbase and widespread acclaim for its ability to bring beloved comic book characters to life on the big screen._
+
+---
+
 <br>
 <div align="center">
-  <strong>𝖳𝗁𝗂𝗌 𝗋𝖾𝗉𝗈𝗌𝗂𝗍𝗈𝗋𝗒 𝖼𝗈𝗇𝗍𝖺𝗂𝗇𝗌 𝖿𝖺𝖼𝗂𝖺𝗅 𝗋𝖾𝖼𝗈𝗀𝗇𝗂𝗍𝗂𝗈𝗇 𝖽𝖺𝗍𝖺 for 𝖼𝗁𝖺𝗋𝖺𝖼𝗍𝖾𝗋𝗌 𝖿𝗋𝗈𝗆 𝗍𝗁𝖾 𝖬𝖺𝗋𝗏𝖾𝗅 𝖢𝗂𝗇𝖾𝗆𝖺𝗍𝗂𝖼 𝖴𝗇𝗂𝗏𝖾𝗋𝗌𝖾 (MCU), specifically the Avengers.</strong>
+  <strong>
+    <sup>𝖳𝗁𝗂𝗌 𝗋𝖾𝗉𝗈𝗌𝗂𝗍𝗈𝗋𝗒 𝖼𝗈𝗇𝗍𝖺𝗂𝗇𝗌 𝖿𝖺𝖼𝗂𝖺𝗅 𝗋𝖾𝖼𝗈𝗀𝗇𝗂𝗍𝗂𝗈𝗇 𝖽𝖺𝗍𝖺 for 𝖼𝗁𝖺𝗋𝖺𝖼𝗍𝖾𝗋𝗌 𝖿𝗋𝗈𝗆 𝗍𝗁𝖾 𝖬𝖺𝗋𝗏𝖾𝗅 𝖢𝗂𝗇𝖾𝗆𝖺𝗍𝗂𝖼 𝖴𝗇𝗂𝗏𝖾𝗋𝗌𝖾 (MCU), specifically the Avengers.</sup>
+  </strong>
 </div>  
-<be>
+</br>
 
 <div style="text-align: center;">
   <div align="center">
