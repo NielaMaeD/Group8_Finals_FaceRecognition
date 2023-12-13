@@ -29,6 +29,7 @@ The MCU officially began with the release of "Iron Man" in 2008 and since then, 
 _<div align = "center">
   <sup>For this activity, the group is tasked to run a face recognition program that will identify unknown and known faces. This will feature the identification of certain characters from the Avengers, as well as faces that are unknown based on the limited set of known images.</sup>_
 </div>
+
 _<sup>The codes that will be used in accomplishing this task are listed below:</sup>_
 
 ---
