@@ -13,8 +13,13 @@
 </div>  
 
 ![368129771_376256858089592_233386268408499940_n](https://github.com/ClarenceJoyIlagan/Group8_Finals_FaceRecognition/assets/144084976/70c175c3-2a97-465a-a013-3b3efd10a7b7)
-_When it comes to blockbuster cinema, the Marvel Cinematic Universe (MCU) stands as a groundbreaking achievement, reshaping the landscape of superhero storytelling with its interconnected narratives, iconic characters, and an overarching vision that extends far beyond the boundaries of conventional filmmaking. 
+
+<div align = "center">
+  
+  _When it comes to blockbuster cinema, the Marvel Cinematic Universe (MCU) stands as a groundbreaking achievement, reshaping the landscape of superhero storytelling with its interconnected narratives, iconic characters, and an overarching vision that extends far beyond the boundaries of conventional filmmaking. 
 The MCU officially began with the release of "Iron Man" in 2008 and since then, Marvel Studios has produced a series of interconnected films, grouped into phases, each contributing to an overarching storyline. These phases often culminate in ensemble films, such as **"The Avengers,"** where multiple superheroes come together to face a common threat. The success of the MCU has led to a cultural phenomenon, with a dedicated fanbase and widespread acclaim for its ability to bring beloved comic book characters to life on the big screen._
+
+</div>
 
 ---
 
@@ -122,7 +127,11 @@ _🔳The code then draws rectangles around recognized faces, annotates them with
 
 ![Avengers Original 6](https://github.com/ClarenceJoyIlagan/Group8_Finals_FaceRecognition/assets/144084976/1628d460-b7b8-4049-a84b-d12cf7e5617a)
 
+<div align = "center">
+
 _At the heart of this cinematic revolution lies the Avengers Original Six – Captain America, Iron Man, Thor, Hulk, Black Widow, and Hawkeye. Debuting in 2012 Marvel Studios' groundbreaking film "The Avengers", these founding heroes stand as a testament to the power of collaboration, individual growth, and the enduring spirit of heroism._
+
+</div>
 
 ---
 
